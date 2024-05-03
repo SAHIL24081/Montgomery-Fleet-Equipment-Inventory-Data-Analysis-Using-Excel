@@ -1,1 +1,2 @@
 # Montgomery-Fleet-Equipment-Inventory-Data-Analysis-Using-Excel
+I am Download Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV this file and Converted to the XLSX file. Then Clean the data as finding out Column Width, Empty rows, Duplicate records, Spelling, Whitespace, Department names. After cleaning the data I am format the data as the table. I am use AutoSum to calculate SUM ,MAX ,MIN, AVERAGE,COUNT and Use Pivot table Feature.
